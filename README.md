@@ -1,3 +1,5 @@
+"Pure" C version of qu3e. I'm still deciding on which C standard to target. All the code is still C++ right now.
+
 qu3e v1.01
 ==========
 
